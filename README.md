@@ -1,3 +1,3 @@
-# VideoTimeline
+## VideoTimeline.
 
 ![Demo](demo/demo.gif)
